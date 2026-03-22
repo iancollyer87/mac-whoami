@@ -24,6 +24,13 @@
 
 ---
 
+
+## Preview
+
+![mac-whoami preview](assets/preview.png)
+
+---
+
 ## About
 
 **mac-whoami** is a macOS privacy and anonymity tool modeled after the popular [kali-whoami](https://github.com/owerdogan/whoami-project) project for Linux. Since kali-whoami is built exclusively for Debian and Arch-based Linux distributions, this tool brings similar functionality natively to macOS (Apple Silicon & Intel).
