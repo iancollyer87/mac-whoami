@@ -20,9 +20,7 @@
 
 ---
 
-## Preview
 
-![mac-whoami screenshot](assets/screenshot.png)
 
 ---
 
