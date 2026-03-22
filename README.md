@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/shell-zsh-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/license-GPL%20v3-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/version-1.0.0-black?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/iancollyer87/mac-whoami?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/github/forks/iancollyer87/mac-whoami?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/github/issues/iancollyer87/mac-whoami?style=for-the-badge&color=black" />
 </p>
 
 ---
@@ -82,7 +85,7 @@ When you run `--stop`, everything is **restored exactly** to what it was before.
 ## Requirements
 
 - macOS 12 Monterey or later
-- Apple Silicon (M1/M2/M3) or Intel Mac
+- Apple Silicon (M1/M2/M3/M4) or Intel Mac
 - `zsh` (default on macOS Catalina+)
 - Run with `sudo` for full functionality
 
